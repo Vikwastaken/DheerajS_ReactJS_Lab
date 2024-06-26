@@ -1,0 +1,39 @@
+{
+  "expenses": [
+    {
+      "id": "1",
+      "date": "2022-04-07",
+      "product": "Bike Repair",
+      "price": 1000,
+      "payee": "Rahul"
+    },
+    {
+      "id": "2",
+      "date": "2022-04-05",
+      "product": "Movie",
+      "price": 1044,
+      "payee": "Rahul"
+    },
+    {
+      "id": "3",
+      "date": "2022-04-01",
+      "product": "Vegetables",
+      "price": 366,
+      "payee": "Ramesh"
+    },
+    {
+      "id": "9f1b",
+      "date": "2024-06-04",
+      "product": "Apple",
+      "price": 400,
+      "payee": "Anil"
+    },
+    {
+      "id": "33fe",
+      "date": "2024-06-04",
+      "product": "iubwdauhda",
+      "price": 123132,
+      "payee": "Kumar Varma"
+    }
+  ]
+}
